@@ -8,6 +8,7 @@ ms.topic: article
 title: Upgrade the Dynamics 365 Guides solution
 ms.reviewer: v-brycho
 ---
+[Test page]
 
 # Upgrade the Dynamics 365 Guides solution (for admins)
 
